@@ -1,0 +1,46 @@
+.score-container {
+  text-align: center;
+  margin-top: 50px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.title {
+  color: brown;
+  font-size: 28px;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.name-label {
+  color: blue;
+}
+
+.school-label {
+  color: crimson;
+}
+
+.total-label {
+  color: purple;
+}
+
+.score-label {
+  color: green;
+}
+
+.value.name {
+  color: cornflowerblue;
+}
+
+.value.school {
+  color: red;
+}
+
+.value.total {
+  color: violet;
+}
+
+.value.score {
+  color: green;
+}
